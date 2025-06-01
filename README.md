@@ -4,7 +4,7 @@ The backend server for Chess Master, handling game logic, user authentication, a
 
 ## 🌐 Live Demo
 
-[Chess Master Backend API](https://chess-backend-mo0t.onrender.com)
+[Chess Master Backend API](https://chess-backend-xb47.onrender.com)
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ The backend server for Chess Master, handling game logic, user authentication, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Lokesh-reddy18/chess-backend.git
+git clone https://github.com/maheshbabugt/chess-backend-.git
 cd backend
 ```
 
@@ -41,7 +41,7 @@ Create a `.env` file in the root directory:
 PORT=10000
 MONGODB_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-FRONTEND_URL=https://chess-frontend-lokesh-reddy18s-projects.vercel.app
+FRONTEND_URL=https://chess-frontend-8kenam7sd-maheshs-projects-cb371066.vercel.app
 ```
 
 4. Start Development Server
@@ -126,7 +126,7 @@ backend/
 
 ## 👥 Author
 
-Kolli Lokesh Reddy
+T Mahesh Babu
 
 ## 📝 License
 
