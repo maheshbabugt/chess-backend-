@@ -26,7 +26,7 @@ The backend server for Chess Master, handling game logic, user authentication, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/maheshbabugt/chess-backend-.git
+git clone https://github.com/maheshbabugt/chess-backend-
 cd backend
 ```
 
